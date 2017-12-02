@@ -14,7 +14,7 @@ PAC模式：对墙内网站使用本地ip访问，对墙外网站使用海外ip�
 *建议建个文件夹，取名为SS或Shadowsocks，把shadowsocks.exe放到文件夹中，因为运行这个会生成配置文件，如果在一个文件夹中会比较好管理。
 <br>
 ![Alt text](https://github.com/codermckee/Shadowsocks/raw/master/img/2.png)
-<br>
+
 4. Attention：
 a.有些电脑PAC模式下无法访问google，但其他墙外站点访问正常。此时可以切换到全局模式下进行google搜索
 b. 如果服务器众多，可以选择最优的，但一般所有服务器都是Youtube 1080P 无压力
